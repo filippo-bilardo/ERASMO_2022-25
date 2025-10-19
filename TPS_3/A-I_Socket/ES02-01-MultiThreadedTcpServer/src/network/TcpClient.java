@@ -2,7 +2,7 @@
  * from network/..
  * javac network/Client.java; c
  */
-package network;
+//package network;
 
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
